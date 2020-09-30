@@ -49,3 +49,73 @@ Determine scope, resources, and major tasks
 Prepare for trade-offs
   - Quality = Time + Cost
   
+
+## Build up : How to get the Project Going
+Assemble your teeam
+- assess the skills needed for the project, so you can get the right people
+
+Plan Assignemnts
+- list skills required and set a meeting with the team talking about who's taking the task
+- after giving assignment give them the resource and information to start
+- leave them be
+
+Create the schedule
+- work backwards and list down first the dates that cant be changed
+Tools:
+  - Gantt chart
+  - Critical Path Method
+  - Performance Evaluation and Review Technique Chart
+
+Tips for Delegating effectively
+- recognize the capability of your team members
+- trust your team ability to get the job done
+- focus on results
+- consider deligating in a way to develop your team's skill
+- delegate to the lowest level to maximize use of resources
+- explain assignemnts clearly and provide resources needed for successful completion
+- deflect reverse delegation
+  - solve problems together
+
+Hold a Kick off Meeting
+- call everyone
+- go over projects plan and objectives
+- encourage people to point out spots where
+  - problems may occur
+  - improvements could be made
+
+Develop a Budget
+  - Personnel
+    - ongoing and extra for employees and contract workers
+  - Travel
+  - Training
+  - Supplies
+  - Space
+  - Research
+  - Capital Expenditures
+  - Overhead
+
+## Implementation: How to execute the project
+Monitor and control process and budget
+- look for early signs of problems
+- monitor not control
+- allow team to workout small projects on their own
+
+Report Progress
+- stakeholders want regular updates and status report
+- ask how much and what kind
+
+Hold Weekly Team meetings
+- ask what is essential to the projects success
+
+Manage Problems
+1. Time Slippage
+  - falling behind schedule
+2. Scope creep
+  - time slppage can cause internal pressure to alter the scope of the project
+  - When stakeholders want to change, communicate how those changes will affect cost time or quality.
+
+3. Quality Issues
+  - Dont rush quality for schedules
+
+4. Peoples problem
+  - daily interaction - with individual team members
